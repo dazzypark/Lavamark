@@ -1,5 +1,5 @@
 # Lavamark
-Lavaplayer server benchmarker. How many lavaplayer tracks can your server handle playing at once?
+Lavaplayer server benchmarker. How many lavaplayer tracks can your server handle playing at once?.test
 
 [Download](../../releases)
 
